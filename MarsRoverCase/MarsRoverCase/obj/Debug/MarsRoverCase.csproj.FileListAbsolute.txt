@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\MarsRoverCase\MarsRoverCase\bin\Debug\MarsRoverCase.exe.config
+C:\Users\asus\source\repos\MarsRoverCase\MarsRoverCase\bin\Debug\MarsRoverCase.exe
+C:\Users\asus\source\repos\MarsRoverCase\MarsRoverCase\bin\Debug\MarsRoverCase.pdb
+C:\Users\asus\source\repos\MarsRoverCase\MarsRoverCase\obj\Debug\MarsRoverCase.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\MarsRoverCase\MarsRoverCase\obj\Debug\MarsRoverCase.exe
+C:\Users\asus\source\repos\MarsRoverCase\MarsRoverCase\obj\Debug\MarsRoverCase.pdb
